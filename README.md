@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin1005&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+
 
 <!--
 **jaemin1005/jaemin1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
