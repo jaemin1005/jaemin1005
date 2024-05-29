@@ -1,3 +1,4 @@
+![](./profile-3d-contrib/profile-night-green.svg)
 <div align="center">
   <div display="gird" grid-template-colmns: 1fr 1fr> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin1005&exclude_repo=jaemin1005.github.io&layout=compact&theme=tokyonight" />
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](./profile-3d-contrib/profile-night-green.svg)
